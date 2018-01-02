@@ -1,13 +1,8 @@
-This is a templated version of "Arduino PID Library" it supports float or double.
+This is a templated version of "Arduino PID Library" it supports float or double. Forked from lacklustrlabs/Arduino-PID-Library, who implemented a lot of useful changes, thank you!
 
 ***************************************************************
 * Arduino PID Library - Version 1.1.1+
 * by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
-*
+* and lacklustrlabs <lacklustrlabs@gmail.com>
 * This Library is licensed under a GPLv3 License
 ***************************************************************
-
- - For an ultra-detailed explanation of why the code is the way it is, please visit: 
-   http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
-
- - For function documentation see:  http://playground.arduino.cc/Code/PIDLibrary
